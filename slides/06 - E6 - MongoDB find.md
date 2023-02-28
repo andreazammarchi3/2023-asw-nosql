@@ -1,37 +1,37 @@
 # MongoDB  - Esercitazione (Find)
 
 ## Restaurants
-1. Visualizzare tutti i ristoranti. 
+1. FATTO Visualizzare tutti i ristoranti. 
 
 
-2. Visualizzare quartiere (borough) e tipo di cucina (cuisine) di tutti i ristoranti. 
+2. FATTO Visualizzare quartiere (borough) e tipo di cucina (cuisine) di tutti i ristoranti. 
 
 
-3. Visualizzare quartiere (borough) e tipo di cucina (cuisine) di tutti i ristoranti, ma senza _id. 
+3. FATTO Visualizzare quartiere (borough) e tipo di cucina (cuisine) di tutti i ristoranti, ma senza _id. 
 
 
-4. Visualizzare quartiere (borough), tipo di cucina (cuisine) e via (address.street) di tutti i ristoranti. 
+4. FATTO Visualizzare quartiere (borough), tipo di cucina (cuisine) e via (address.street) di tutti i ristoranti. 
 
-5. Visualizzare iI ristorante il cui zipcode è 11225
-
-
-6. Visualizzare i ristoranti il cui tipo di cucina è Hamburgers 
+5. FATTO Visualizzare iI ristorante il cui zipcode è 11225
 
 
-7. Visualizzare i ristoranti il cui tipo di cucina NON è Hamburgers 
+6. FATTO Visualizzare i ristoranti il cui tipo di cucina è Hamburgers 
 
 
-8. Visualizzare i ristoranti il cui tipo di cucina è tra Hamburgers, Bakery o Irish 
+7. FATTO Visualizzare i ristoranti il cui tipo di cucina NON è Hamburgers 
 
 
-9. Visualizzare i ristoranti il cui tipo di cucina NON è tra Hamburgers, Bakery o Irish 
+8. FATTO Visualizzare i ristoranti il cui tipo di cucina è tra Hamburgers, Bakery o Irish 
 
 
-10. Visualizzare i ristoranti il cui tipo di cucina non esiste 
+9. FATTO Visualizzare i ristoranti il cui tipo di cucina NON è tra Hamburgers, Bakery o Irish 
+
+
+10. FATTO Visualizzare i ristoranti il cui tipo di cucina non esiste 
 
 
 ## Yelp business
-11. Visualizzare tutti i business che hanno ricevuto almeno 10 recensioni (review_count) E si trovano in Arizona o in Nevada (state = NV o AZ) 
+11. FATO Visualizzare tutti i business che hanno ricevuto almeno 10 recensioni (review_count) E si trovano in Arizona o in Nevada (state = NV o AZ) 
 
 
 12. Visualizzare tutti i business che hanno ricevuto almeno 10 recensioni (review_count) O si trovano in Arizona o in Nevada (state = NV o AZ) 
